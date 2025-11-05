@@ -1,4 +1,4 @@
-namespace PAWProject.Mvc.Models
+namespace ProjectPAW.Mvc.Models
 {
     public class ErrorViewModel
     {

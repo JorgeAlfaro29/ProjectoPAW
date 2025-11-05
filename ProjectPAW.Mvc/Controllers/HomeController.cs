@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using PAWProject.Mvc.Models;
+using ProjectPAW.Mvc.Models;
 
-namespace PAWProject.Mvc.Controllers
+namespace ProjectPAW.Mvc.Controllers
 {
     public class HomeController : Controller
     {
